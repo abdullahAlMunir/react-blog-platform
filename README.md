@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # react-blog-platform
 =======
 # React + Vite
@@ -14,3 +15,6 @@ Currently, two official plugins are available:
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 >>>>>>> a8f9246 (Initial commit of react blog platform)
+=======
+# react-blog-platform
+>>>>>>> d66748e879d8980c741e403d6f6fc9e1ff245b89
