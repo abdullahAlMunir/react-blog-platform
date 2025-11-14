@@ -40,8 +40,8 @@ The application should automatically open in your browser at http://localhost:51
 📦 Built With
 
     • React: Frontend JavaScript library
-    • [Add State Management Tool, e.g., Redux/Context API/Zustand]: For application state management
-    • [Add Styling Method, e.g., Tailwind CSS/Styled Components/Sass]: For styling the application
+    • Zustand: For application state management
+    • Tailwind CSS: For styling the application
     • npm: Dependency Management
 
 🤝 Contributing
@@ -52,7 +52,7 @@ The application should automatically open in your browser at http://localhost:51
         3. Commit your Changes (git commit -m 'Add some AmazingFeature')
         4. Push to the Branch (git push origin feature/AmazingFeature)
         5. Open a Pull Request
-        
+
 👤 Author
 [Abdullah Al Munir] 
 GitHub: https://www.github.com/abdullahAlMunir
