@@ -19,7 +19,7 @@ Key Features
         • Node.js (LTS recommended)
     Installation
         1. Clone the repository:
-        git clone [https://github.com/username/react-blog-platform.git](https://github.com/username/react-blog-platform.git)
+        git clone [https://github.com/abdullahAlMunir/react-blog-platform.git](https://github.com/abdullahAlMunir/react-blog-platform.git)
         2. Navigate into the project directory:
         cd react-blog-platform
         3. Install dependencies:
