@@ -2,7 +2,7 @@
   "name": "react-blog-project",
   "private": true,
   "version": "0.1.0",
-  "homepage": "https://abdullahAlMunir.github.io/",
+  "homepage": "https://abdullahAlMunir.github.io/react-blog-platform",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.5",
